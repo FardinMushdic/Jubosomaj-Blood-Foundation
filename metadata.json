@@ -1,0 +1,6 @@
+{
+  "name": "যুবসমাজ ব্লাড ফাউন্ডেশন",
+  "description": "যুবসমাজ ব্লাড ফাউন্ডেশন (Juboshomaj Blood Foundation) - একটি আধুনিক, সুরক্ষিত ও ক্লাউড-সংযুক্ত রক্তদান এবং স্বেচ্ছাসেবক ম্যানেজমেন্ট প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
